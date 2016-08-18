@@ -1,6 +1,6 @@
 <?php 
 
-$con = mysqli_connect('localhost', 'root', 'mysql', 'login_system_1');
+$con = mysqli_connect('eu-cdbr-west-01.cleardb.com', 'beabe289a11738', '91f7d04f', 'heroku_56756d9f02bc645');
 
 
 function row_count($result){
